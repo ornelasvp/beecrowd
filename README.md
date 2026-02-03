@@ -1,7 +1,14 @@
-## BEECROWD
+# Beecrowd Problems - My Solutions
 
-Este é um repositório com objetivo de mostrar a solução de alguns problemas do beecrowd nas linguagens de programação que uso no dia a dia 
+**Welcome!!** 👋🏼
 
-Link do meu perfil do beecrowd: https://www.beecrowd.com.br/judge/pt/profile/672420
+This repositoroty contains my personal solutions to Beecrowd problems, organized by _programming language_.
 
-##
+**Notes**
+<br>
+👨🏼‍🎓 - These solutions are based on my own study practice.
+<br>
+🤓 - This repo is for educational purposes only and **improvements are always welcome**!
+<br>
+<br>
+🌐 - [My profile on Beecrowd](https://judge.beecrowd.com/pt/profile/672420)
